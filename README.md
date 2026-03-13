@@ -17,12 +17,14 @@
 **PIBIC-EM – Campus Inteligente | IFSULDEMINAS – Campus Muzambinho**  
 📅 Set/2023 – Ago/2024  
 
-Pesquisa aplicada em **Internet das Coisas (IoT)**, envolvendo levantamento bibliográfico, catalogação de componentes eletrônicos e desenvolvimento de materiais instrucionais voltados ao ensino e à aplicação de tecnologias IoT em ambiente acadêmico.
+Pesquisa aplicada em **Internet das Coisas (IoT)**, envolvendo levantamento bibliográfico, catalogação de componentes eletrônicos e desenvolvimento de materiais instrucionais voltados ao ensino e aplicação de tecnologias IoT em ambiente acadêmico.
 
 ---
 
 ## 🚀 Tecnologias
 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
