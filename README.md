@@ -11,6 +11,12 @@
 - 🚀 Sempre aprendendo algo novo
 
 ---
+## 🔬 Experiência em Pesquisa
+
+**PIBIC-EM – Campus Inteligente | IFSULDEMINAS – Campus Muzambinho**  
+📅 Set/2023 – Ago/2024  
+
+Pesquisa aplicada em **Internet das Coisas (IoT)** envolvendo levantamento bibliográfico, catalogação de componentes eletrônicos e desenvolvimento de materiais instrucionais voltados ao ensino e aplicação de tecnologias IoT em ambiente acadêmico.
 
 ## 🚀 Tecnologias
 
@@ -24,9 +30,9 @@
 
 ## 📊 Estatísticas
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=mendesssluxca&show_icons=true&theme=tokyonight)
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasm-araujo&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mendesssluxca&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasm-araujo&layout=compact&theme=tokyonight)
 
 ---
 
