@@ -4,10 +4,10 @@
 
 ## 📌 Sobre mim
 
-- 🎓 Graduando em Ciência da Computação no IFSULDEMINAS - Campus Muzambinho
-- 💻 Desenvolvedor de software
-- 📚 Interessado em React Native, Django, Next.js e Python
-- 🐷 Atuo em projetos ligados à pecuária e visão computacional
+- 🎓 Graduando em Ciência da Computação no IFSULDEMINAS - Campus Muzambinho (3/8).
+- 🖥️ Formado em Técnico em Informática integrado ao ensino médio no IFSULDEMINAS - Campus Muzambinho (2022-2024).
+- 💻 Desenvolvedor de software no programa Campus Inteligente (Iniciação Científica, Set/2025 - Ago/2026).
+- 
 - 🚀 Sempre aprendendo algo novo
 
 ---
@@ -18,8 +18,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
@@ -34,5 +32,5 @@
 
 ## 🌐 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](COLE_SEU_LINK_AQUI)
-[![Gmail](https://img.shields.io/badge/Gmail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEUEMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/lucasm-araujo19)
+[![Gmail](https://img.shields.io/badge/Gmail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasm.araujo19@gmail.com)
