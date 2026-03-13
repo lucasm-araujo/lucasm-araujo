@@ -5,7 +5,7 @@
 ## 📌 Sobre mim
 
 - 🎓 Graduando em Ciência da Computação no IFSULDEMINAS – Campus Muzambinho (3/8).
-- 🖥️ Técnico em Informática integrado ao ensino médio pelo IFSULDEMINAS – Campus Muzambinho (2020–2023).
+- 🖥️ Técnico em Informática integrado ao ensino médio pelo IFSULDEMINAS – Campus Muzambinho (2022–2024).
 - 💻 Desenvolvedor de software no programa Campus Inteligente (Iniciação Científica, set/2025 – ago/2026).
 - 🔬 Ex-bolsista PIBIC-EM no programa Campus Inteligente (set/2023 – ago/2024).
 - 🚀 Sempre aprendendo algo novo.
