@@ -34,14 +34,6 @@ Pesquisa aplicada em **Internet das Coisas (IoT)**, envolvendo levantamento bibl
 
 ---
 
-## 📊 Estatísticas
-
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=mendesssluxca&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mendesssluxca&layout=compact&theme=tokyonight)
-
----
-
 ## 🌐 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasm-araujo19)
